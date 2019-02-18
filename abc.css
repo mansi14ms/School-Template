@@ -58,3 +58,14 @@
     padding: 70px 0 30px;
     background:slategray;
 }
+element.style {
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.Tc2JkaWVwZakQOp2Ic_9lwHaEK&pid=15.1&P=0&w=287&h=162);
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 40px;
+    font-size: 14px;
+    color: #fff;
+    padding: 15px;
+
+    margin: 20px 0px;
+}
